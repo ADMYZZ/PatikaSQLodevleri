@@ -25,4 +25,9 @@
         SELECT first_name FROM customer
     );
 
--- 4)
+-- 4)İlk 3 sorguyu tekrar eden veriler için de yapalım.
+    -- UNION ALL
+    -- INTERSECT ALL
+    -- EXCEPT ALL 
+    -- Yazılır sorguda.
+    
